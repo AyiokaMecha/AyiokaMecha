@@ -1,6 +1,8 @@
 # 💫 About Me:
 Lines of code are my instruments, orchestrating a magnificent symphony, to be performed by the grand theater of my computer.
 
+Mechatronic Engineer with a proven track record in control system design, embedded systems software engineering, and backend development. Possesses a deep-rooted passion for computer science and electronics. Skilled in building robust backend solutions and developing user-friendly frontends, including Android applications and web-based interfaces.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mecha_the_second) 
